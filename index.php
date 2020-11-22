@@ -7,6 +7,6 @@
 <body>
 
     <?php include_once("index.html"); ?>
-    <?php include_once("class_room_1.html"); ?>
+   
 </body>
 </html>
