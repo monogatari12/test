@@ -5,8 +5,8 @@
     <title></title>
 </haed>
 <body>
-    /*<?php phpinfo(); ?>/*
+
     <?php include_once("index.html"); ?>
- <?php include_once("class_room_1.html"); ?>
+    <?php include_once("class_room_1.html"); ?>
 </body>
 </html>
