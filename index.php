@@ -5,6 +5,10 @@
     <title></title>
 </haed>
 <body>
-<?php include_once("index.html"); ?>
+
+
+    <?php include_once("index.html"); ?>
+   
 </body>
 </html>
+
